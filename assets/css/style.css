@@ -596,11 +596,11 @@ input:-ms-input-placeholder {
     color:#fff;
 }
 .navbar-brand {
-    padding: 0px 15px;
+    padding: 5px 15px;
 }
 .navbar-brand>img {
-    max-width: 200px;
-    max-height: 45px;
+    max-width: 188px;
+    max-height: 38px;
 }
 
 .contact-number{
