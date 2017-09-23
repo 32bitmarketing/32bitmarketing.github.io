@@ -733,13 +733,11 @@ input:-ms-input-placeholder {
     -ms-transition:.5s;
 }
 .features-content.active{
-    background:#fbc73a;
+    background:#dd390d;
     color:#000;
-
-
 }
 .features-content:hover{
-    background:#fbc73a;
+    background:#dd390d;
     color:#000;
 }
 .features-content.active i{
