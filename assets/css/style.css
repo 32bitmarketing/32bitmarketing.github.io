@@ -595,6 +595,10 @@ input:-ms-input-placeholder {
 .navbar-default .navbar-nav>li>a:hover {
     color:#fff;
 }
+.navbar-brand>img {
+    max-width: 188px;
+    max-height: 38px;
+}
 
 .contact-number{
     font-size:12px;
