@@ -696,7 +696,7 @@ input:-ms-input-placeholder {
 .portfolio .portfolio-item .pt-btn{
     background:#1D1D1D;
     padding:18px 40px;
-    color:#464646;
+    color:#fff;
     font-weight:bold;
     text-transform:uppercase;
     transition:.5s;
@@ -875,7 +875,7 @@ input:-ms-input-placeholder {
 .main-history .history-content .hst-btn button{
     border-radius:0;
     background:#1D1D1D;
-    color:#333;
+    color:#fff;
     font-size:12px;
     font-weight:500;
     padding:15px 15px;
@@ -945,7 +945,7 @@ input:-ms-input-placeholder {
 .supports-content .spt-btn button{
     background: #1D1D1D;
     padding: 15px 30px;
-    color: #464646;
+    color: #fff;
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
