@@ -734,11 +734,11 @@ input:-ms-input-placeholder {
 }
 .features-content.active{
     background:#dd390d;
-    color:#000;
+    color:#fff;
 }
 .features-content:hover{
     background:#dd390d;
-    color:#000;
+    color:#fff;
 }
 .features-content.active i{
     color:#fff;
