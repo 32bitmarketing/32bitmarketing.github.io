@@ -10,8 +10,8 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     body {
         font-size: 15px;
     }
-	
-    
+
+
 
 }
 
@@ -20,7 +20,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     html {
         font-size: 90%;
     }
-   
+
 
 
 }
@@ -30,45 +30,42 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
         font-size: 80%;
     }
 	.navbar-default {
-    background-color:#ffc038;
-    border: transparent;
-    padding:20px 0;
+		background-color:#1D1D1D;
+		border: transparent;
+		padding:20px 0;
 	}
 	.navbar-default .navbar-toggle {
-    border-color:none;
-    background: #464646;
-	border:0;
+		border-color:none;
+		background: #464646;
+		border:0;
 	}
 	.navbar-default .navbar-toggle:hover {
 		background:#000;
 	}
-	
+
 	.navbar-default .navbar-toggle .icon-bar {
-    background-color: white;
+    	background-color: white;
 	}
-	
+
 	homepage-style .unique-apps h2 {
-    font-size: 20px;
+    	font-size: 20px;
 	}
 	.main-history .history-heading {
-    margin: 30px 0;
-    text-align: center;
+		margin: 30px 0;
+		text-align: center;
 	}
 	.homepage-style .unique-apps h2 {
-    font-size: 28px;
+    	font-size: 28px;
 	}
 	.main-history .history-img {
-    text-align: center;
+    	text-align: center;
 	}
 	.main-history .history-content .hst-btn{
-	 text-align: center;	
+		text-align: center;
 	}
 	.homepage-style .slider-area {
-    margin-top: 30px;
+    	margin-top: 30px;
 	}
-	
-	
-   
 }
 
 
@@ -78,46 +75,41 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     html {
         font-size: 65%;
     }
-	
+
 	.homepage-style .unique-apps h2 {
-    font-size: 20px;
+    	font-size: 20px;
 	}
 	.portfolio .portfolio-item h4 {
-    font-size: 12px;
+    	font-size: 12px;
 	}
-	
+
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-		background:#ffc038;
+		background:#1D1D1D;
 		border:0;
 	}
 	.homepage-style .slider-area {
-    margin-top: 30px;
+    	margin-top: 30px;
 	}
-	
+
 	.supports-content .spt-btn{
 		text-align:center;
 	}
-   
-
 }
 
 
 
 @media (max-width: 320px) {
-
-
     html {
         font-size: 60.5%;
     }
 	.homepage-style .unique-apps h2 {
-    font-size: 12px;
+    	font-size: 12px;
 	}
 	.heading .title h4 {
-    font-size: 5px;
+    	font-size: 5px;
 	}
 	.portfolio .portfolio-item h4 {
-    font-size: 10px;
+    	font-size: 10px;
 	}
-	
 }
 
