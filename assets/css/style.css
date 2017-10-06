@@ -910,7 +910,7 @@ input:-ms-input-placeholder {
     color:#6a6a6a;
     text-align:center;
 }
-.project-photo {
+.project-photo img {
     max-height: 140px;
     max-width: 140px;
 }
