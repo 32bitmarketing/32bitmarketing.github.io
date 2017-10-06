@@ -900,8 +900,10 @@ input:-ms-input-placeholder {
 }
 .project-item .project-photo{
     min-height: 140px;
-    display:block;
-    overflow:hidden;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .main-project .project-item h5{
     font-size:15px;
